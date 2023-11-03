@@ -2,6 +2,8 @@
 
 Esta é uma API construída com o framework Express.js e Node.js, projetada para manipular dados de filmes em formato JSON. A API é responsável por organizar as rotas da aplicação e invocar funções com base nas chamadas aos endpoints. Ela segue os padrões de verbos HTTP (GET, POST, PUT, PATCH, DELETE) e respostas HTTP (200, 404, 301, etc.), aderindo à semântica do protocolo.
 
+Este é um projeto desenvolvido como parte da disciplina Back-end com Express & Node.js do Instituto Infnet.
+
 ## Funcionalidades
 
 - **GET** `/movies`: Retorna a lista de todos os filmes disponíveis.
@@ -37,6 +39,6 @@ Antes de usar esta API, certifique-se de ter Node.js instalado em sua máquina. 
 npm install
 
 Depois de instalar as dependências, você pode iniciar o servidor com o comando:
-`npm start`
+npm start
 
-Projeto desenvolvido como parte da disciplina Back-end com Express & Node.js do Instituto Infnet.
+
